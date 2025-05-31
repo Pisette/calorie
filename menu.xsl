@@ -11,7 +11,7 @@
         <xsl:apply-templates select="breakfast_menu/food[calories &lt;= 700]"/>
 
 
-        </div>
+     
 
       </body>
     </html>
